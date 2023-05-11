@@ -36,7 +36,7 @@ export const ProtectedPage = () => {
     <PageLayout>
       <div className="content-layout">
         <h1 id="page-title" className="content__title">
-          Protected Page
+         Dashboard
         </h1>
         <div className="content__body">
           <p id="page-description">
