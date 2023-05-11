@@ -199,3 +199,40 @@
     text-align: left;
   }
 }
+
+.contact {
+  margin: 0;
+  font-size: 24px;
+}
+.contactTel256Container {
+display: inline-block;
+
+position: absolute;
+width: 510px;
+height: 314px;
+left: 121px;
+top: 5900px;
+
+font-family: 'Work Sans';
+font-style: normal;
+line-height: 50px;
+/* or 208% */
+
+color: #FFFFFF;
+}
+.termsOfServiceContainer {
+position: absolute;
+width: 510px;
+height: 314px;
+left: 493px;
+top: 3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+line-height: 50px;
+/* or 208% */
+
+
+color: #FFFFFF;
+}
+
