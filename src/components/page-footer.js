@@ -27,13 +27,13 @@ export const PageFooter = () => {
         <div className="page-footer-grid__info">
           <div className="page-footer-info__message">
             <p className="page-footer-message__headline">
-              <span>This sample application is brought to you by&nbsp;</span>
-              <PageFooterHyperlink path="https://auth0.com/">
-                Auth0
+              <span> Break the job anxiety with us supporting you&nbsp; giving you tools to build resumes faster</span>
+              <PageFooterHyperlink path="https://dayonehire.com/">
+               Day One Hire
               </PageFooterHyperlink>
             </p>
             <p className="page-footer-message__description">
-              <PageFooterHyperlink path="https://auth0.com/docs/quickstarts/">
+              <PageFooterHyperlink path="https://dayonehire.com/signup">
                 <span>
                   Securely implement authentication using Auth0 on any stack and
                   any device&nbsp;
@@ -46,11 +46,11 @@ export const PageFooter = () => {
             <a
               id="create-account-button"
               className="button button--secondary"
-              href="https://auth0.com/signup"
+              href="https://dayonehire.com/signup"
               target="_blank"
               rel="noreferrer noopener"
             >
-              Create Free Auth0 Account
+              Create Free DayOne Hire Account
             </a>
           </div>
           <div className="page-footer-info__resource-list">
@@ -75,7 +75,7 @@ export const PageFooter = () => {
               width="20"
               height="22.22"
             />
-            <PageFooterHyperlink path="https://auth0.com/">
+            <PageFooterHyperlink path="https://dayonehire.com/">
              Day One Hire
             </PageFooterHyperlink>
           </div>
