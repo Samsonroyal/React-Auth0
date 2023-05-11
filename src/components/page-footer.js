@@ -76,7 +76,7 @@ export const PageFooter = () => {
               height="22.22"
             />
             <PageFooterHyperlink path="https://auth0.com/">
-              Auth0 Inc
+             Day One Hire
             </PageFooterHyperlink>
           </div>
         </div>
