@@ -6,7 +6,7 @@ export const NotFoundPage = () => {
     <PageLayout>
       <div className="content-layout">
         <h1 id="page-title" className="content__title">
-          Not Found
+          Page Not Found
         </h1>
       </div>
     </PageLayout>
