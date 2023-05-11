@@ -14,13 +14,13 @@ import { PublicPage } from "./pages/public-page";
 export const App = () => {
   const { isLoading } = useAuth0();
 
-  if (isLoading) {
+if (isLoading) {
     return (
       <div className="page-layout">
-        <PageLoader />
+      <PageLoader />
       </div>
     );
-  }
+}
 
   return (
     <Routes>
